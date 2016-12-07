@@ -1,0 +1,6 @@
+c:\users\анна\documents\visual studio 2013\Projects\CPO4\CPO4\bin\Debug\CPO4.exe.config
+c:\users\анна\documents\visual studio 2013\Projects\CPO4\CPO4\bin\Debug\CPO4.exe
+c:\users\анна\documents\visual studio 2013\Projects\CPO4\CPO4\bin\Debug\CPO4.pdb
+c:\users\анна\documents\visual studio 2013\Projects\CPO4\CPO4\obj\Debug\CPO4.csprojResolveAssemblyReference.cache
+c:\users\анна\documents\visual studio 2013\Projects\CPO4\CPO4\obj\Debug\CPO4.exe
+c:\users\анна\documents\visual studio 2013\Projects\CPO4\CPO4\obj\Debug\CPO4.pdb
